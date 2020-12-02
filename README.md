@@ -46,3 +46,4 @@ Here are some ideas to get you started:
     <p> Status: in progress</p>
   </li>
 </ul>
+<p> Thank you for checking out this README! Have a great day!</p>
