@@ -16,4 +16,33 @@ Here are some ideas to get you started:
 -->
 
 <p> Hello! Welcome to my profile! </p>
-<p> I am Abhinav Jain, and I am working on several projects right now! </p>
+<p> I am Abhinav Jain, an aspiring full-stack developer and a CS student at the University of Waterloo.</p>
+<p> I have worked on a variety of projects, including everything from games, to computer vision, to artificial intelligence!</p>
+<p> I am currently working on several projects:</p>
+<ul>
+  <li>
+    <a href="https://github.com/AbhiJ2706/paint-drawing-server">Paint drawing Server</a>
+    <p> A full Frontend/Backend for a drawing service! Users can create an account, draw pictures with a full-feature editor, and make their pictures public!</p>
+    <p> Status: finished </p>
+  </li>
+  <li>
+    <a href="https://github.com/AbhiJ2706/paint-app-android">Paint App</a>
+    <p> An android drawing app! Users can draw pictures with a full-feature editor, draw on existing pictures, and save their artwork locally!</p>
+    <p> Status: in progress- finishing UI </p>
+  </li>
+  <li>
+    <a href="https://github.com/Anthony24601/FoodRestrictions">FRApp</a>
+    <p> A collaborative project using OCR to read ingredients lists to identify possible allergens!</p>
+    <p> Status: in progress- working on image preprocessing</p>
+  </li>
+  <li>
+    <a href="https://github.com/AbhiJ2706/abhij2706.github.io">My Website portfolio</a>
+    <p> An interactive display of all my work, to date!</p>
+    <p> Status: just getting started</p>
+  </li>
+  <li>
+    <a href="https://github.com/AbhiJ2706/AbhiJ2706">This README</a>
+    <p> How does it look?</p>
+    <p> Status: in progress</p>
+  </li>
+</ul>
