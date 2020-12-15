@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <li>
     <a href="https://github.com/AbhiJ2706/paint-app-android">Paint App</a>
     <p> An android drawing app! Users can draw pictures with a full-feature editor, draw on existing pictures, and save their artwork locally!</p>
-    <p> Status: in progress- finishing UI </p>
+    <p> Status: Nearly done! (updated Dec 15th 2020)</p>
   </li>
   <li>
     <a href="https://github.com/Anthony24601/FoodRestrictions">FRApp</a>
