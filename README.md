@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <li>
     <a href="https://github.com/AbhiJ2706/abhij2706.github.io">My Website portfolio</a>
     <p> An interactive display of all my work, to date!</p>
-    <p> Status: just getting started</p>
+    <p> Status: In progress- having fun with React (Updated Dec 27, 2020)</p>
   </li>
   <li>
     <a href="https://github.com/AbhiJ2706/AbhiJ2706">This README</a>
