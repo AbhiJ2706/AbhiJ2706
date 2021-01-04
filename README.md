@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> Hello! Welcome to my profile! </p>
+<!--<p> Hello! Welcome to my profile! </p>
 <p> I am Abhinav Jain, an aspiring developer and a CS student at the University of Waterloo.</p>
 <p> I have worked on a variety of projects, including everything from <a href="https://github.com/AbhiJ2706/shoot-em-up-js">games</a>, to <a href="https://github.com/AbhiJ2706/mvs_vision_demo">computer vision</a>, to <a href="https://github.com/AbhiJ2706/generate-images-AI">artificial intelligence</a>!</p>
 <p> I am currently working on several projects:</p>
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
     <p> Status: in progress</p>
   </li>
 </ul>
-<p> Thank you for checking out this README! Have a great day!</p>
+<p> Thank you for checking out this README! Have a great day!</p>-->
