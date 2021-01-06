@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <p> Status: Nearly done! (updated Dec 15th 2020)</p>
   </li>
   <li>
-    <a href="https://github.com/AbhiJ2706/abhij2706.github.io">My Website portfolio</a>
+    <a href="https://abhij2706.github.io">My Website portfolio</a>
     <p> An interactive display of all my work, to date!</p>
     <p> Status: Finished! (Updated Jan 6th, 2021)</p>
   </li>
