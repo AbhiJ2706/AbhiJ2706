@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <h1> Hello! Welcome to my profile! </h1>
 <p> I am Abhinav Jain, an aspiring developer and a CS student at the University of Waterloo.</p>
 <p> I have worked on a variety of projects, including everything from <a href="https://github.com/AbhiJ2706/shoot-em-up-js">games</a>, to <a href="https://github.com/AbhiJ2706/mvs_vision_demo">computer vision</a>, to <a href="https://github.com/AbhiJ2706/generate-images-AI">artificial intelligence</a>!</p>
-<h1>I also have a <a href="https://abhij2706.github.io">website</a> if you want to check it out!</h1>
+<h1>I also have a <a href="https://abhij2706.github.io">website</a> if you would like to check it out!</h1>
