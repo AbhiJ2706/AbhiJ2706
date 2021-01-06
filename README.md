@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p> Hello! Welcome to my profile! </p>
+<h1> Hello! Welcome to my profile! </h1>
 <p> I am Abhinav Jain, an aspiring developer and a CS student at the University of Waterloo.</p>
 <p> I have worked on a variety of projects, including everything from <a href="https://github.com/AbhiJ2706/shoot-em-up-js">games</a>, to <a href="https://github.com/AbhiJ2706/mvs_vision_demo">computer vision</a>, to <a href="https://github.com/AbhiJ2706/generate-images-AI">artificial intelligence</a>!</p>
-<h3>If you want to check out my projects, <a href="https://abhij2706.github.io">head to my website!</a></h3>
+<h1>If you want to check out my projects, <a href="https://abhij2706.github.io">head to my website!</a></h1>
 <p> I am currently working on several projects:</p>
 <ul>
   <li>
@@ -30,11 +30,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/AbhiJ2706/paint-app-android">Paint App</a>
     <p> An android drawing app! Users can draw pictures with a full-feature editor, draw on existing pictures, and save their artwork locally!</p>
     <p> Status: Nearly done! (updated Dec 15th 2020)</p>
-  </li>
-  <li>
-    <a href="https://github.com/Anthony24601/FoodRestrictions">FRApp</a>
-    <p> A collaborative project using OCR to read ingredients lists to identify possible allergens!</p>
-    <p> Status: in progress- working on image preprocessing</p>
   </li>
   <li>
     <a href="https://github.com/AbhiJ2706/abhij2706.github.io">My Website portfolio</a>
