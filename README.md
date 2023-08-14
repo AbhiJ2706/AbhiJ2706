@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <a href="https://abhij2706.github.io">Resume</a>
 <br/>
-<a href="https://www.linkedin.com/in/abhinav-jain-/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/abhij2706/">LinkedIn</a>
 
