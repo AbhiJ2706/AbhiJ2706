@@ -1,21 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AbhiJ2706/AbhiJ2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Abhinav Jain, AI and ML developer!
 
-Here are some ideas to get you started:
+Here you'll find source code for most of my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to learn more about me, check out my <a href="https://abhij2706.github.io">website</a>!
 
-<a href="https://abhij2706.github.io">Resume</a>
+Thanks for stopping by :)
+
+<a href="https://abhij2706.github.io/personal-website-reactfolio/#/resume">Resume</a>
 <br/>
 <a href="https://www.linkedin.com/in/abhij2706/">LinkedIn</a>
 
