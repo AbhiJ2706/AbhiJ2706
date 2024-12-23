@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Abhinav Jain, Software Engineer and AI/ML developer!
 
-Here you'll find source code for most of my projects.
+Here you'll find source code for my projects.
 
 Thanks for stopping by :)
 
