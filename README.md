@@ -8,5 +8,5 @@ Thanks for stopping by :)
 
 <a href="https://www.linkedin.com/in/abhij2706/">LinkedIn</a>
 
-<a href="https://abhij2706.github.io">LinkedIn</a>
+<a href="https://abhij2706.github.io">Website</a>
 
