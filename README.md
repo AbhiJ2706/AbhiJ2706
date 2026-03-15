@@ -10,3 +10,5 @@ Thanks for stopping by :)
 
 <a href="https://abhij2706.github.io">Website</a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhiJ2706" alt="AbhiJ2706" /> </p>
+
